@@ -1,6 +1,6 @@
 <?php
     use PHPUnit\Framework\TestCase;
-    require 'Student.php';
+    require '..\Student.php';
     class GoodTest extends TestCase{
         public $GoodTestInstance;
         public $gr;
