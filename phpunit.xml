@@ -8,7 +8,6 @@
     syntaxCheck="true">
     <testsuites>
         <testsuit name="Test suite">
-            <directory>.</directory>
         </testsuit>
     </testsuites>
 </phpunit>
